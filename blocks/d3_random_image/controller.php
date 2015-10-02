@@ -12,7 +12,7 @@ class Controller extends BlockController
 {
 	protected $btTable = 'btD3RandomImage';
 	protected $btInterfaceWidth = "400";
-	protected $btInterfaceHeight = "500";
+	protected $btInterfaceHeight = "300";
 	
 	public function getBlockTypeName() 
 	{
