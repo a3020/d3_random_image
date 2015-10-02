@@ -5,7 +5,6 @@ use Package;
 use FileList;
 use FileSet;
 use Core;
-use \Concrete\Core\File\Image\Thumbnail\Type\Type;
 use \Concrete\Core\Block\BlockController;
 
 class Controller extends BlockController 
