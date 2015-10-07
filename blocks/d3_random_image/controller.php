@@ -114,7 +114,7 @@ class Controller extends BlockController
 	 **/
 	public function getFileSetsOptions()
 	{
-        $options = [t("None")];
+        $options = array("" => t("None"));
 
 		$sets = FileSet::getMySets();
 		
