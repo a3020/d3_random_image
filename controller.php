@@ -11,7 +11,7 @@ class Controller extends Package
 {
 	protected $pkgHandle = 'd3_random_image';
 	protected $appVersionRequired = '5.7.1';
-	protected $pkgVersion = '0.9.2';
+	protected $pkgVersion = '0.9.3';
 	
 	public function getPackageName() 
 	{
@@ -35,6 +35,6 @@ class Controller extends Package
 		parent::uninstall();
 		
 		$db = \Database::get();
-		$db->Execute('DROP TABLE btD3RandomImage');
+		$db->Execute('DROP TABLE IF EXISTS btD3RandomImage');
 	}
 }
