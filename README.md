@@ -12,6 +12,6 @@ Translations:
 - English
 - Dutch
 
-![Block edit dialog](https://cloud.githubusercontent.com/assets/1431100/10246986/f512697e-6915-11e5-8b6f-3947977c1118.png)
+![Block edit dialog](https://cloud.githubusercontent.com/assets/1431100/10333290/180f8f6c-6ce3-11e5-9b4e-d46166531e81.png)
 
 See marketplace page: http://www.concrete5.org/marketplace/addons/random-image1/
