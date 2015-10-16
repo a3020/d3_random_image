@@ -11,6 +11,7 @@ Block properties:
 Translations:
 - English
 - Dutch
+- German
 
 ![Block edit dialog](https://cloud.githubusercontent.com/assets/1431100/10333290/180f8f6c-6ce3-11e5-9b4e-d46166531e81.png)
 
